@@ -11,9 +11,11 @@
         android:theme="@style/Theme.Manhattan1">
         <activity
             android:name=".activities.SignUpActivity"
+            android:windowSoftInputMode="adjustResize"
             />
         <activity
             android:name=".activities.SignInActivity"
+            android:windowSoftInputMode="adjustResize"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

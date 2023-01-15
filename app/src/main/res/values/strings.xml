@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Manhattan1</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="enter_username">Enter Username :</string>
+    <string name="enter_password">Enter Password :</string>
+    <string name="new_user_sign_up">New User? Sign-up</string>
+    <string name="sign_in">SIGN-IN</string>
 </resources>
